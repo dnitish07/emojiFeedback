@@ -59,8 +59,6 @@
 .stars i.active {
     color: gold;
 }
-
-
 body.dark-mode {
     background-color: #121212;
     color: #ffffff;
@@ -90,9 +88,8 @@ body.dark-mode .stars i.active {
 body.dark-mode .emoji {
     color: #ffffff;
 }
-
-.darking-button{
-    position: absolute;
+.custom-control{
+    position: fixed;
     top: 20px;
     right: 20px;
 }

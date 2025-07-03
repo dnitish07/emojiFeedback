@@ -33,7 +33,6 @@ stars.forEach(function (star, index) {
 
     });
 });
-
 let toggle = document.getElementById('darkModeToggle');
 
 toggle.addEventListener('change', function () {
