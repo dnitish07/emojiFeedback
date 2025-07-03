@@ -1,4 +1,4 @@
-# 🌟 Emoji Feedback with Star Ratings
+# Emoji Feedback with Star Ratings
 
 An interactive and visually appealing feedback component where users can rate their experience using star ratings, responsive emoji expressions, and optional dark mode.
 
