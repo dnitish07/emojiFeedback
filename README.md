@@ -44,13 +44,6 @@ Create a clean and responsive feedback UI where users can:
 
 ---
 
-## Bonus Enhancements (Optional)
-- 🎨 Smooth emoji animation on hover.
-- 💬 Show a feedback textbox after rating (future scope).
-- ✨ Label and icon tooltips for better UX.
-
----
-
 ## Tech Stack
 
 | Layer     | Technology            |
