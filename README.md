@@ -6,7 +6,7 @@ An interactive and visually appealing feedback component where users can rate th
 
 ## 📷 Preview
 
-![Feedback Preview](.preview.png)
+![Feedback Preview](./preview.png)
 
 ---
 
